@@ -8,19 +8,19 @@
 //------------------------------------------
 
 var listOfPeople = [
-  { name: 'Jimmy Drayfus', age: 16, isFelon: true },
+  { name: 'Tim Allen', age: 16, isFelon: true },
   { name: 'Sherry Tomkins', age: 33, isFelon: false },
   { name: 'Romy Podolski', age: 17, isFelon: false },
-  { name: 'Buffy Chang', age: 25, isFelon: true },
+  { name: 'Nicole Richie', age: 25, isFelon: true },
   { name: 'Rufus Johnson', age: 38, isFelon: false },
   { name: 'Tammy Barkley', age: 20, isFelon: false },
   { name: 'Harry McCormick', age: 39, isFelon: false},
   { name: 'Shannon O\'Bannon', age: 31, isFelon: false},
   { name: 'Greta Irishkov', age: 22, isFelon: false},
-  { name: 'Maria Lewandowski', age: 28, isFelon: true},
+  { name: 'Martha Stewart', age: 74, isFelon: true},
   { name: 'Bobby Francois', age: 28, isFelon: false},
   { name: 'Salomon Marzococo', age: 14, isFelon: false },
-  { name: 'Ahmad Funchess', age: 44, isFelon: true}
+  { name: 'Mark Wahlberg', age: 44, isFelon: true}
 ]
 
 
